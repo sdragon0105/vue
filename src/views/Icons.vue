@@ -1,9 +1,9 @@
 <template>
-  <v-container
-    fluid
-  >
+  <v-container>
     <v-card class="pa-3">
-      Dashboard
+      <v-icon>
+        mdi-account
+      </v-icon>
     </v-card>
   </v-container>
 </template>
